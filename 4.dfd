@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+81
+'señor usuario digite el valor de tres productos y el sistema le aplicara el 14%'
+5
+1
+8
+p1,p2,p3
+6
+3
+1
+t
+8
+p1+p2+p3
+3
+des
+6
+t*0.14
+2
+tp
+5
+t-des
+4
+1
+2
+tp
+1

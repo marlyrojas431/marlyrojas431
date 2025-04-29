@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+127
+'Señor usuario digite el valor de dos productos, el sistema le dara un descuento de 5 mil pesos y le mostrara el valor a pagar'
+5
+1
+5
+p1,p2
+6
+2
+1
+t
+5
+p1+p2
+2
+tp
+6
+t-5000
+4
+1
+2
+tp
+1

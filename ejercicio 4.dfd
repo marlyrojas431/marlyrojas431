@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+18
+'digita el precio'
+5
+1
+6
+precio
+7
+1
+1
+13
+180000>precio
+4
+1
+26
+'tiene que pagar el envio'
+6
+1
+1
+p
+12
+precio+20000
+4
+1
+36
+'el total del envio es ', p ,' mil '
+13
+4
+1
+20
+'el envio es gratis'
+4
+1
+29
+ ' tienes que pagar ', precio
+13
+1
